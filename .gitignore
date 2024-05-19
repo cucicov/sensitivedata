@@ -1,0 +1,4 @@
+# Ignore all .mov files 
+*.mov  
+# Ignore all .mp4 files 
+*.mp4
