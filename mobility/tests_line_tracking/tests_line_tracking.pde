@@ -12,29 +12,29 @@ String[] lines;
 void setup() {
   size(720, 1280);
   
-  output = createWriter("output.txt");
-  bg = loadImage("C:/Users/dorin/Documents/SensitiveData/mobility/for_processing.jpg");
-  background(bg);
+  //output = createWriter("output.txt");
+  //bg = loadImage("C:/Users/dorin/Documents/SensitiveData/mobility/for_processing.jpg");
+  //background(bg);
   
-  //background(0);
-  //lines = loadStrings("output.txt");
+  background(0);
+  lines = loadStrings("output.txt");
 }
 
 void draw() {
   noStroke();
   
-  //String line = lines[index];
-  //int[] numbers = extractNumbers(line);
+  String line = lines[index];
+  int[] numbers = extractNumbers(line);
   
-  //circle(numbers[0], numbers[1], 5);
-  //if (index < lines.length-1) {
-  //  index++;
-  //} else {
-  //  output.close();
-  //  noLoop();
-  //  print("Finish");
-  //}
-  //saveFrame("line-######.png");
+  circle(numbers[0], numbers[1], 5);
+  if (index < lines.length-1) {
+    index++;
+  } else {
+    output.close();
+    noLoop();
+    print("Finish");
+  }
+  saveFrame("line-######.png");
   
   if (mousePressed) {
     output.println("{" + mouseX + ", " + mouseY + "},");
