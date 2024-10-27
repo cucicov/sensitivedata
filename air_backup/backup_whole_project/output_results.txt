@@ -1,0 +1,1020 @@
+Date: 2023-1-1
+Average PM10: 57.85, Average PM2.5: 68.93
+
+Date: 2023-1-2
+Average PM10: 39.56, Average PM2.5: 46.92
+
+Date: 2023-1-3
+Average PM10: 50.82, Average PM2.5: 60.35
+
+Date: 2023-1-4
+Average PM10: 35.16, Average PM2.5: 42.14
+
+Date: 2023-1-5
+Average PM10: 25.79, Average PM2.5: 31.32
+
+Date: 2023-1-6
+Average PM10: 7.80, Average PM2.5: 10.09
+
+Date: 2023-1-7
+Average PM10: 26.11, Average PM2.5: 31.40
+
+Date: 2023-1-8
+Average PM10: 34.34, Average PM2.5: 41.33
+
+Date: 2023-1-9
+Average PM10: 21.74, Average PM2.5: 26.56
+
+Date: 2023-1-10
+Average PM10: 24.71, Average PM2.5: 30.38
+
+Date: 2023-1-11
+Average PM10: 8.09, Average PM2.5: 10.51
+
+Date: 2023-1-12
+Average PM10: 13.66, Average PM2.5: 16.93
+
+Date: 2023-1-13
+Average PM10: 22.08, Average PM2.5: 26.86
+
+Date: 2023-1-14
+Average PM10: 26.43, Average PM2.5: 31.78
+
+Date: 2023-1-15
+Average PM10: 28.98, Average PM2.5: 35.26
+
+Date: 2023-1-16
+Average PM10: 33.34, Average PM2.5: 39.63
+
+Date: 2023-1-17
+Average PM10: 30.74, Average PM2.5: 37.40
+
+Date: 2023-1-18
+Average PM10: 14.36, Average PM2.5: 17.91
+
+Date: 2023-1-19
+Average PM10: 10.17, Average PM2.5: 14.18
+
+Date: 2023-1-20
+Average PM10: 6.96, Average PM2.5: 8.90
+
+Date: 2023-1-21
+Average PM10: 16.07, Average PM2.5: 20.39
+
+Date: 2023-1-22
+Average PM10: 10.93, Average PM2.5: 13.86
+
+Date: 2023-1-23
+Average PM10: 8.48, Average PM2.5: 10.80
+
+Date: 2023-1-24
+Average PM10: 10.44, Average PM2.5: 13.44
+
+Date: 2023-1-25
+Average PM10: 14.00, Average PM2.5: 18.62
+
+Date: 2023-1-26
+Average PM10: 21.60, Average PM2.5: 26.93
+
+Date: 2023-1-27
+Average PM10: 15.46, Average PM2.5: 19.40
+
+Date: 2023-1-28
+Average PM10: 17.88, Average PM2.5: 22.35
+
+Date: 2023-1-29
+Average PM10: 23.05, Average PM2.5: 28.55
+
+Date: 2023-1-30
+Average PM10: 15.88, Average PM2.5: 20.21
+
+Date: 2023-1-31
+Average PM10: 31.22, Average PM2.5: 37.76
+
+Date: 2023-2-1
+Average PM10: 31.44, Average PM2.5: 37.75
+
+Date: 2023-2-2
+Average PM10: 10.29, Average PM2.5: 13.13
+
+Date: 2023-2-3
+Average PM10: 11.30, Average PM2.5: 14.54
+
+Date: 2023-2-4
+Average PM10: 19.10, Average PM2.5: 23.82
+
+Date: 2023-2-5
+Average PM10: 9.43, Average PM2.5: 11.73
+
+Date: 2023-2-6
+Average PM10: 15.58, Average PM2.5: 19.53
+
+Date: 2023-2-7
+Average PM10: 18.46, Average PM2.5: 22.72
+
+Date: 2023-2-8
+Average PM10: 18.71, Average PM2.5: 23.51
+
+Date: 2023-2-9
+Average PM10: 29.42, Average PM2.5: 35.51
+
+Date: 2023-2-10
+Average PM10: 42.10, Average PM2.5: 49.43
+
+Date: 2023-2-11
+Average PM10: 43.16, Average PM2.5: 51.24
+
+Date: 2023-2-12
+Average PM10: 51.94, Average PM2.5: 60.68
+
+Date: 2023-2-13
+Average PM10: 47.45, Average PM2.5: 55.06
+
+Date: 2023-2-14
+Average PM10: 58.80, Average PM2.5: 68.86
+
+Date: 2023-2-15
+Average PM10: 44.41, Average PM2.5: 51.31
+
+Date: 2023-2-16
+Average PM10: 46.91, Average PM2.5: 54.65
+
+Date: 2023-2-17
+Average PM10: 52.15, Average PM2.5: 60.78
+
+Date: 2023-2-18
+Average PM10: 23.95, Average PM2.5: 28.11
+
+Date: 2023-2-19
+Average PM10: 12.34, Average PM2.5: 15.11
+
+Date: 2023-2-20
+Average PM10: 7.90, Average PM2.5: 9.90
+
+Date: 2023-2-21
+Average PM10: 6.40, Average PM2.5: 7.95
+
+Date: 2023-2-22
+Average PM10: 13.70, Average PM2.5: 16.65
+
+Date: 2023-2-23
+Average PM10: 9.04, Average PM2.5: 10.95
+
+Date: 2023-2-24
+Average PM10: 16.97, Average PM2.5: 19.87
+
+Date: 2023-2-25
+Average PM10: 34.77, Average PM2.5: 40.61
+
+Date: 2023-2-26
+Average PM10: 23.95, Average PM2.5: 28.60
+
+Date: 2023-2-27
+Average PM10: 9.39, Average PM2.5: 11.44
+
+Date: 2023-2-28
+Average PM10: 19.20, Average PM2.5: 22.55
+
+Date: 2023-3-1
+Average PM10: 27.22, Average PM2.5: 30.87
+
+Date: 2023-3-2
+Average PM10: 26.40, Average PM2.5: 29.81
+
+Date: 2023-3-3
+Average PM10: 33.85, Average PM2.5: 38.16
+
+Date: 2023-3-4
+Average PM10: 40.75, Average PM2.5: 46.20
+
+Date: 2023-3-5
+Average PM10: 36.18, Average PM2.5: 40.99
+
+Date: 2023-3-6
+Average PM10: 28.69, Average PM2.5: 32.39
+
+Date: 2023-3-7
+Average PM10: 32.27, Average PM2.5: 36.17
+
+Date: 2023-3-8
+Average PM10: 26.96, Average PM2.5: 30.60
+
+Date: 2023-3-9
+Average PM10: 9.33, Average PM2.5: 11.45
+
+Date: 2023-3-10
+Average PM10: 11.11, Average PM2.5: 13.46
+
+Date: 2023-3-11
+Average PM10: 13.67, Average PM2.5: 16.63
+
+Date: 2023-3-12
+Average PM10: 11.51, Average PM2.5: 13.67
+
+Date: 2023-3-13
+Average PM10: 24.42, Average PM2.5: 28.70
+
+Date: 2023-3-14
+Average PM10: 14.42, Average PM2.5: 17.31
+
+Date: 2023-3-15
+Average PM10: 8.61, Average PM2.5: 10.32
+
+Date: 2023-3-16
+Average PM10: 12.91, Average PM2.5: 14.95
+
+Date: 2023-3-17
+Average PM10: 13.14, Average PM2.5: 15.24
+
+Date: 2023-3-18
+Average PM10: 9.18, Average PM2.5: 10.49
+
+Date: 2023-3-19
+Average PM10: 25.95, Average PM2.5: 29.42
+
+Date: 2023-3-20
+Average PM10: 37.43, Average PM2.5: 41.96
+
+Date: 2023-3-21
+Average PM10: 26.23, Average PM2.5: 29.84
+
+Date: 2023-3-22
+Average PM10: 26.19, Average PM2.5: 29.92
+
+Date: 2023-3-23
+Average PM10: 26.95, Average PM2.5: 30.63
+
+Date: 2023-3-24
+Average PM10: 22.97, Average PM2.5: 25.99
+
+Date: 2023-3-25
+Average PM10: 21.60, Average PM2.5: 24.48
+
+Date: 2023-3-26
+Average PM10: 3.83, Average PM2.5: 4.45
+
+Date: 2023-3-27
+Average PM10: 11.38, Average PM2.5: 13.52
+
+Date: 2023-3-28
+Average PM10: 4.93, Average PM2.5: 6.04
+
+Date: 2023-3-29
+Average PM10: 8.04, Average PM2.5: 9.89
+
+Date: 2023-3-30
+Average PM10: 14.51, Average PM2.5: 17.88
+
+Date: 2023-3-31
+Average PM10: 12.86, Average PM2.5: 15.83
+
+Date: 2023-4-1
+Average PM10: 21.77, Average PM2.5: 25.82
+
+Date: 2023-4-2
+Average PM10: 6.04, Average PM2.5: 7.48
+
+Date: 2023-4-3
+Average PM10: 13.32, Average PM2.5: 16.85
+
+Date: 2023-4-4
+Average PM10: 4.81, Average PM2.5: 5.83
+
+Date: 2023-4-5
+Average PM10: 9.36, Average PM2.5: 12.31
+
+Date: 2023-4-6
+Average PM10: 14.34, Average PM2.5: 17.93
+
+Date: 2023-4-7
+Average PM10: 18.13, Average PM2.5: 22.64
+
+Date: 2023-4-8
+Average PM10: 27.70, Average PM2.5: 33.44
+
+Date: 2023-4-9
+Average PM10: 28.96, Average PM2.5: 34.33
+
+Date: 2023-4-10
+Average PM10: 21.34, Average PM2.5: 25.70
+
+Date: 2023-4-11
+Average PM10: 14.46, Average PM2.5: 17.93
+
+Date: 2023-4-12
+Average PM10: 11.36, Average PM2.5: 14.46
+
+Date: 2023-4-13
+Average PM10: 17.76, Average PM2.5: 21.12
+
+Date: 2023-4-14
+Average PM10: 11.27, Average PM2.5: 13.63
+
+Date: 2023-4-15
+Average PM10: 6.79, Average PM2.5: 8.17
+
+Date: 2023-4-16
+Average PM10: 8.47, Average PM2.5: 11.53
+
+Date: 2023-4-17
+Average PM10: 9.63, Average PM2.5: 12.90
+
+Date: 2023-4-18
+Average PM10: 5.57, Average PM2.5: 7.16
+
+Date: 2023-4-19
+Average PM10: 10.07, Average PM2.5: 12.67
+
+Date: 2023-4-20
+Average PM10: 17.66, Average PM2.5: 21.26
+
+Date: 2023-4-21
+Average PM10: 8.08, Average PM2.5: 10.22
+
+Date: 2023-4-22
+Average PM10: 11.91, Average PM2.5: 14.54
+
+Date: 2023-4-23
+Average PM10: 17.05, Average PM2.5: 20.43
+
+Date: 2023-4-24
+Average PM10: 11.73, Average PM2.5: 14.36
+
+Date: 2023-4-25
+Average PM10: 12.17, Average PM2.5: 14.89
+
+Date: 2023-4-26
+Average PM10: 6.67, Average PM2.5: 8.67
+
+Date: 2023-4-27
+Average PM10: 4.81, Average PM2.5: 6.05
+
+Date: 2023-4-28
+Average PM10: 7.02, Average PM2.5: 8.85
+
+Date: 2023-4-29
+Average PM10: 11.59, Average PM2.5: 14.21
+
+Date: 2023-4-30
+Average PM10: 15.64, Average PM2.5: 18.68
+
+Date: 2023-5-1
+Average PM10: 8.33, Average PM2.5: 10.56
+
+Date: 2023-5-2
+Average PM10: 6.77, Average PM2.5: 8.41
+
+Date: 2023-5-3
+Average PM10: 5.38, Average PM2.5: 6.90
+
+Date: 2023-5-4
+Average PM10: 7.76, Average PM2.5: 9.92
+
+Date: 2023-5-5
+Average PM10: 9.80, Average PM2.5: 12.92
+
+Date: 2023-5-6
+Average PM10: 5.92, Average PM2.5: 7.70
+
+Date: 2023-5-7
+Average PM10: 4.97, Average PM2.5: 6.15
+
+Date: 2023-5-8
+Average PM10: 6.07, Average PM2.5: 7.73
+
+Date: 2023-5-9
+Average PM10: 4.51, Average PM2.5: 5.76
+
+Date: 2023-5-10
+Average PM10: 5.84, Average PM2.5: 7.51
+
+Date: 2023-5-11
+Average PM10: 5.29, Average PM2.5: 7.03
+
+Date: 2023-5-12
+Average PM10: 6.56, Average PM2.5: 8.65
+
+Date: 2023-5-13
+Average PM10: 7.06, Average PM2.5: 9.02
+
+Date: 2023-5-14
+Average PM10: 8.10, Average PM2.5: 10.37
+
+Date: 2023-5-15
+Average PM10: 4.95, Average PM2.5: 6.45
+
+Date: 2023-5-16
+Average PM10: 5.77, Average PM2.5: 7.45
+
+Date: 2023-5-17
+Average PM10: 6.70, Average PM2.5: 9.09
+
+Date: 2023-5-18
+Average PM10: 6.68, Average PM2.5: 9.06
+
+Date: 2023-5-19
+Average PM10: 9.80, Average PM2.5: 13.34
+
+Date: 2023-5-20
+Average PM10: 10.55, Average PM2.5: 14.03
+
+Date: 2023-5-21
+Average PM10: 7.60, Average PM2.5: 10.04
+
+Date: 2023-5-22
+Average PM10: 5.05, Average PM2.5: 6.50
+
+Date: 2023-5-23
+Average PM10: 6.22, Average PM2.5: 8.31
+
+Date: 2023-5-24
+Average PM10: 7.43, Average PM2.5: 9.99
+
+Date: 2023-5-25
+Average PM10: 5.77, Average PM2.5: 7.57
+
+Date: 2023-5-26
+Average PM10: 6.07, Average PM2.5: 7.98
+
+Date: 2023-5-27
+Average PM10: 8.82, Average PM2.5: 11.83
+
+Date: 2023-5-28
+Average PM10: 7.31, Average PM2.5: 9.77
+
+Date: 2023-5-29
+Average PM10: 6.05, Average PM2.5: 8.15
+
+Date: 2023-5-30
+Average PM10: 7.15, Average PM2.5: 9.63
+
+Date: 2023-5-31
+Average PM10: 7.00, Average PM2.5: 9.43
+
+Date: 2023-6-1
+Average PM10: 8.53, Average PM2.5: 11.79
+
+Date: 2023-6-2
+Average PM10: 11.14, Average PM2.5: 14.22
+
+Date: 2023-6-3
+Average PM10: 4.92, Average PM2.5: 6.38
+
+Date: 2023-6-4
+Average PM10: 2.83, Average PM2.5: 3.15
+
+Date: 2023-6-5
+Average PM10: 2.91, Average PM2.5: 3.52
+
+Date: 2023-6-6
+Average PM10: 2.53, Average PM2.5: 3.23
+
+Date: 2023-6-7
+Average PM10: 3.59, Average PM2.5: 4.61
+
+Date: 2023-6-8
+Average PM10: 4.28, Average PM2.5: 5.56
+
+Date: 2023-6-9
+Average PM10: 4.83, Average PM2.5: 6.38
+
+Date: 2023-6-10
+Average PM10: 8.02, Average PM2.5: 10.58
+
+Date: 2023-6-11
+Average PM10: 7.67, Average PM2.5: 10.26
+
+Date: 2023-6-12
+Average PM10: 5.58, Average PM2.5: 7.93
+
+Date: 2023-6-13
+Average PM10: 3.09, Average PM2.5: 4.07
+
+Date: 2023-6-14
+Average PM10: 5.10, Average PM2.5: 6.79
+
+Date: 2023-6-15
+Average PM10: 6.88, Average PM2.5: 9.45
+
+Date: 2023-6-16
+Average PM10: 4.42, Average PM2.5: 5.93
+
+Date: 2023-6-17
+Average PM10: 6.24, Average PM2.5: 8.40
+
+Date: 2023-6-18
+Average PM10: 4.96, Average PM2.5: 6.56
+
+Date: 2023-6-19
+Average PM10: 4.72, Average PM2.5: 6.13
+
+Date: 2023-6-20
+Average PM10: 6.43, Average PM2.5: 8.60
+
+Date: 2023-6-21
+Average PM10: 9.24, Average PM2.5: 11.79
+
+Date: 2023-6-22
+Average PM10: 11.91, Average PM2.5: 15.28
+
+Date: 2023-6-23
+Average PM10: 13.71, Average PM2.5: 16.81
+
+Date: 2023-6-24
+Average PM10: 10.29, Average PM2.5: 13.06
+
+Date: 2023-6-25
+Average PM10: 5.89, Average PM2.5: 7.51
+
+Date: 2023-6-26
+Average PM10: 4.88, Average PM2.5: 6.07
+
+Date: 2023-6-27
+Average PM10: 5.25, Average PM2.5: 6.50
+
+Date: 2023-6-28
+Average PM10: 6.37, Average PM2.5: 8.21
+
+Date: 2023-6-29
+Average PM10: 7.06, Average PM2.5: 9.12
+
+Date: 2023-6-30
+Average PM10: 3.45, Average PM2.5: 4.26
+
+Date: 2023-7-1
+Average PM10: 8.25, Average PM2.5: 10.01
+
+Date: 2023-7-2
+Average PM10: 8.78, Average PM2.5: 10.78
+
+Date: 2023-7-3
+Average PM10: 9.73, Average PM2.5: 12.53
+
+Date: 2023-7-4
+Average PM10: 10.26, Average PM2.5: 13.14
+
+Date: 2023-7-5
+Average PM10: 6.66, Average PM2.5: 8.62
+
+Date: 2023-7-6
+Average PM10: 8.80, Average PM2.5: 11.45
+
+Date: 2023-7-7
+Average PM10: 7.33, Average PM2.5: 9.38
+
+Date: 2023-7-8
+Average PM10: 4.46, Average PM2.5: 5.63
+
+Date: 2023-7-9
+Average PM10: 4.96, Average PM2.5: 6.11
+
+Date: 2023-7-10
+Average PM10: 6.72, Average PM2.5: 8.65
+
+Date: 2023-7-11
+Average PM10: 9.91, Average PM2.5: 12.33
+
+Date: 2023-7-12
+Average PM10: 10.32, Average PM2.5: 12.64
+
+Date: 2023-7-13
+Average PM10: 12.32, Average PM2.5: 15.06
+
+Date: 2023-7-14
+Average PM10: 6.12, Average PM2.5: 7.57
+
+Date: 2023-7-15
+Average PM10: 5.43, Average PM2.5: 6.82
+
+Date: 2023-7-16
+Average PM10: 6.42, Average PM2.5: 7.98
+
+Date: 2023-7-17
+Average PM10: 8.28, Average PM2.5: 10.59
+
+Date: 2023-7-18
+Average PM10: 7.57, Average PM2.5: 9.83
+
+Date: 2023-7-19
+Average PM10: 5.86, Average PM2.5: 7.34
+
+Date: 2023-7-20
+Average PM10: 7.35, Average PM2.5: 9.18
+
+Date: 2023-7-21
+Average PM10: 5.48, Average PM2.5: 6.82
+
+Date: 2023-7-22
+Average PM10: 3.59, Average PM2.5: 4.23
+
+Date: 2023-7-23
+Average PM10: 5.14, Average PM2.5: 6.42
+
+Date: 2023-7-24
+Average PM10: 5.90, Average PM2.5: 7.47
+
+Date: 2023-7-25
+Average PM10: 12.09, Average PM2.5: 15.21
+
+Date: 2023-7-26
+Average PM10: 10.23, Average PM2.5: 12.90
+
+Date: 2023-7-27
+Average PM10: 4.46, Average PM2.5: 5.57
+
+Date: 2023-7-28
+Average PM10: 3.34, Average PM2.5: 4.01
+
+Date: 2023-7-29
+Average PM10: 6.52, Average PM2.5: 8.04
+
+Date: 2023-7-30
+Average PM10: 7.19, Average PM2.5: 9.13
+
+Date: 2023-7-31
+Average PM10: 6.35, Average PM2.5: 8.15
+
+Date: 2023-8-1
+Average PM10: 5.43, Average PM2.5: 6.75
+
+Date: 2023-8-2
+Average PM10: 6.44, Average PM2.5: 8.33
+
+Date: 2023-8-3
+Average PM10: 7.79, Average PM2.5: 10.14
+
+Date: 2023-8-4
+Average PM10: 11.09, Average PM2.5: 14.02
+
+Date: 2023-8-5
+Average PM10: 6.32, Average PM2.5: 8.29
+
+Date: 2023-8-6
+Average PM10: 8.42, Average PM2.5: 10.88
+
+Date: 2023-8-7
+Average PM10: 3.32, Average PM2.5: 4.38
+
+Date: 2023-8-8
+Average PM10: 3.88, Average PM2.5: 4.90
+
+Date: 2023-8-9
+Average PM10: 2.27, Average PM2.5: 2.70
+
+Date: 2023-8-10
+Average PM10: 2.87, Average PM2.5: 3.79
+
+Date: 2023-8-11
+Average PM10: 3.19, Average PM2.5: 4.19
+
+Date: 2023-8-12
+Average PM10: 5.14, Average PM2.5: 6.82
+
+Date: 2023-8-13
+Average PM10: 5.96, Average PM2.5: 8.00
+
+Date: 2023-8-14
+Average PM10: 5.00, Average PM2.5: 6.58
+
+Date: 2023-8-15
+Average PM10: 8.75, Average PM2.5: 11.54
+
+Date: 2023-8-16
+Average PM10: 7.84, Average PM2.5: 10.23
+
+Date: 2023-8-17
+Average PM10: 7.35, Average PM2.5: 9.58
+
+Date: 2023-8-18
+Average PM10: 9.55, Average PM2.5: 12.59
+
+Date: 2023-8-19
+Average PM10: 8.04, Average PM2.5: 10.73
+
+Date: 2023-8-20
+Average PM10: 9.00, Average PM2.5: 11.81
+
+Date: 2023-8-21
+Average PM10: 8.76, Average PM2.5: 11.74
+
+Date: 2023-8-22
+Average PM10: 13.11, Average PM2.5: 16.87
+
+Date: 2023-8-23
+Average PM10: 10.51, Average PM2.5: 14.16
+
+Date: 2023-8-24
+Average PM10: 7.70, Average PM2.5: 10.48
+
+Date: 2023-8-25
+Average PM10: 8.25, Average PM2.5: 10.83
+
+Date: 2023-8-26
+Average PM10: 10.03, Average PM2.5: 12.66
+
+Date: 2023-8-27
+Average PM10: 5.52, Average PM2.5: 6.78
+
+Date: 2023-8-28
+Average PM10: 6.28, Average PM2.5: 7.71
+
+Date: 2023-8-29
+Average PM10: 7.82, Average PM2.5: 10.17
+
+Date: 2023-8-30
+Average PM10: 7.39, Average PM2.5: 9.76
+
+Date: 2023-8-31
+Average PM10: 4.56, Average PM2.5: 5.76
+
+Date: 2023-9-1
+Average PM10: 5.74, Average PM2.5: 7.25
+
+Date: 2023-9-2
+Average PM10: 4.45, Average PM2.5: 5.62
+
+Date: 2023-9-3
+Average PM10: 5.09, Average PM2.5: 6.50
+
+Date: 2023-9-4
+Average PM10: 2.94, Average PM2.5: 3.58
+
+Date: 2023-9-5
+Average PM10: 3.99, Average PM2.5: 5.04
+
+Date: 2023-9-6
+Average PM10: 3.56, Average PM2.5: 4.46
+
+Date: 2023-9-7
+Average PM10: 4.60, Average PM2.5: 5.74
+
+Date: 2023-9-8
+Average PM10: 4.00, Average PM2.5: 4.82
+
+Date: 2023-9-9
+Average PM10: 4.68, Average PM2.5: 5.74
+
+Date: 2023-9-10
+Average PM10: 4.03, Average PM2.5: 4.98
+
+Date: 2023-9-11
+Average PM10: 4.45, Average PM2.5: 5.35
+
+Date: 2023-9-12
+Average PM10: 6.81, Average PM2.5: 8.55
+
+Date: 2023-9-13
+Average PM10: 7.57, Average PM2.5: 9.39
+
+Date: 2023-9-14
+Average PM10: 7.65, Average PM2.5: 9.68
+
+Date: 2023-9-15
+Average PM10: 11.68, Average PM2.5: 14.59
+
+Date: 2023-9-16
+Average PM10: 8.60, Average PM2.5: 11.16
+
+Date: 2023-9-17
+Average PM10: 8.82, Average PM2.5: 11.51
+
+Date: 2023-9-18
+Average PM10: 6.50, Average PM2.5: 8.26
+
+Date: 2023-9-19
+Average PM10: 6.66, Average PM2.5: 8.51
+
+Date: 2023-9-20
+Average PM10: 7.66, Average PM2.5: 10.18
+
+Date: 2023-9-21
+Average PM10: 10.16, Average PM2.5: 13.00
+
+Date: 2023-9-22
+Average PM10: 8.32, Average PM2.5: 10.54
+
+Date: 2023-9-23
+Average PM10: 8.47, Average PM2.5: 10.88
+
+Date: 2023-9-24
+Average PM10: 5.29, Average PM2.5: 6.75
+
+Date: 2023-9-25
+Average PM10: 6.09, Average PM2.5: 7.94
+
+Date: 2023-9-26
+Average PM10: 5.24, Average PM2.5: 6.53
+
+Date: 2023-9-27
+Average PM10: 5.21, Average PM2.5: 6.48
+
+Date: 2023-9-28
+Average PM10: 4.78, Average PM2.5: 5.84
+
+Date: 2023-9-29
+Average PM10: 6.25, Average PM2.5: 7.88
+
+Date: 2023-9-30
+Average PM10: 9.42, Average PM2.5: 11.59
+
+Date: 2023-10-1
+Average PM10: 10.54, Average PM2.5: 13.55
+
+Date: 2023-10-2
+Average PM10: 4.24, Average PM2.5: 5.33
+
+Date: 2023-10-3
+Average PM10: 9.19, Average PM2.5: 11.26
+
+Date: 2023-10-4
+Average PM10: 10.82, Average PM2.5: 13.51
+
+Date: 2023-10-5
+Average PM10: 5.70, Average PM2.5: 7.12
+
+Date: 2023-10-6
+Average PM10: 7.88, Average PM2.5: 10.26
+
+Date: 2023-10-7
+Average PM10: 7.72, Average PM2.5: 9.67
+
+Date: 2023-10-8
+Average PM10: 5.16, Average PM2.5: 6.57
+
+Date: 2023-10-9
+Average PM10: 2.94, Average PM2.5: 3.32
+
+Date: 2023-10-10
+Average PM10: 4.32, Average PM2.5: 5.11
+
+Date: 2023-10-11
+Average PM10: 6.99, Average PM2.5: 8.51
+
+Date: 2023-10-12
+Average PM10: 9.79, Average PM2.5: 12.04
+
+Date: 2023-10-13
+Average PM10: 13.08, Average PM2.5: 15.90
+
+Date: 2023-10-14
+Average PM10: 19.00, Average PM2.5: 22.70
+
+Date: 2023-10-15
+Average PM10: 13.09, Average PM2.5: 16.06
+
+Date: 2023-10-16
+Average PM10: 5.26, Average PM2.5: 6.36
+
+Date: 2023-10-17
+Average PM10: 7.30, Average PM2.5: 9.02
+
+Date: 2023-10-18
+Average PM10: 10.27, Average PM2.5: 12.35
+
+Date: 2023-10-19
+Average PM10: 19.31, Average PM2.5: 22.60
+
+Date: 2023-10-20
+Average PM10: 21.33, Average PM2.5: 25.52
+
+Date: 2023-10-21
+Average PM10: 20.98, Average PM2.5: 24.96
+
+Date: 2023-10-22
+Average PM10: 15.58, Average PM2.5: 18.99
+
+Date: 2023-10-23
+Average PM10: 11.48, Average PM2.5: 14.42
+
+Date: 2023-10-24
+Average PM10: 14.37, Average PM2.5: 17.51
+
+Date: 2023-10-25
+Average PM10: 13.14, Average PM2.5: 15.82
+
+Date: 2023-10-26
+Average PM10: 5.88, Average PM2.5: 7.37
+
+Date: 2023-10-27
+Average PM10: 7.29, Average PM2.5: 8.99
+
+Date: 2023-10-28
+Average PM10: 4.96, Average PM2.5: 5.79
+
+Date: 2023-10-29
+Average PM10: 11.11, Average PM2.5: 12.98
+
+Date: 2023-10-30
+Average PM10: 18.67, Average PM2.5: 22.38
+
+Date: 2023-10-31
+Average PM10: 19.09, Average PM2.5: 22.98
+
+Date: 2023-11-1
+Average PM10: 10.17, Average PM2.5: 12.13
+
+Date: 2023-11-2
+Average PM10: 7.98, Average PM2.5: 9.84
+
+Date: 2023-11-3
+Average PM10: 10.96, Average PM2.5: 13.68
+
+Date: 2023-11-4
+Average PM10: 12.17, Average PM2.5: 14.94
+
+Date: 2023-11-5
+Average PM10: 9.27, Average PM2.5: 10.80
+
+Date: 2023-11-6
+Average PM10: 3.81, Average PM2.5: 4.52
+
+Date: 2023-11-7
+Average PM10: 13.09, Average PM2.5: 16.22
+
+Date: 2023-11-8
+Average PM10: 17.28, Average PM2.5: 21.06
+
+Date: 2023-11-9
+Average PM10: 12.68, Average PM2.5: 15.14
+
+Date: 2023-11-10
+Average PM10: 19.57, Average PM2.5: 23.70
+
+Date: 2023-11-11
+Average PM10: 11.35, Average PM2.5: 14.29
+
+Date: 2023-11-12
+Average PM10: 3.41, Average PM2.5: 3.99
+
+Date: 2023-11-13
+Average PM10: 15.34, Average PM2.5: 18.44
+
+Date: 2023-11-14
+Average PM10: 16.17, Average PM2.5: 19.66
+
+Date: 2023-11-15
+Average PM10: 8.20, Average PM2.5: 11.55
+
+Date: 2023-11-16
+Average PM10: 7.63, Average PM2.5: 12.82
+
+Date: 2023-11-17
+Average PM10: 20.03, Average PM2.5: 27.39
+
+Date: 2023-11-18
+Average PM10: 15.02, Average PM2.5: 18.57
+
+Date: 2023-11-19
+Average PM10: 8.08, Average PM2.5: 9.90
+
+Date: 2023-11-20
+Average PM10: 26.17, Average PM2.5: 31.66
+
+Date: 2023-11-21
+Average PM10: 26.62, Average PM2.5: 32.06
+
+Date: 2023-11-22
+Average PM10: 19.94, Average PM2.5: 24.41
+
+Date: 2023-11-23
+Average PM10: 20.11, Average PM2.5: 24.85
+
+Date: 2023-11-24
+Average PM10: 13.35, Average PM2.5: 17.08
+
+Date: 2023-11-25
+Average PM10: 8.89, Average PM2.5: 11.03
+
+Date: 2023-11-26
+Average PM10: 4.74, Average PM2.5: 5.83
+
+Date: 2023-11-27
+Average PM10: 5.67, Average PM2.5: 6.96
+
+Date: 2023-11-28
+Average PM10: 13.20, Average PM2.5: 16.17
+
+Date: 2023-11-29
+Average PM10: 11.17, Average PM2.5: 14.03
+
+Date: 2023-11-30
+Average PM10: 25.89, Average PM2.5: 31.47
+
+Date: 2023-12-1
+Average PM10: 34.48, Average PM2.5: 41.30
+
+Date: 2023-12-2
+Average PM10: 42.14, Average PM2.5: 49.65
+
+Date: 2023-12-3
+Average PM10: 18.21, Average PM2.5: 22.62
+
+Date: 2023-12-4
+Average PM10: 17.76, Average PM2.5: 22.29
+
+Date: 2023-12-5
+Average PM10: 24.87, Average PM2.5: 29.89
+
+Minimum and Maximum Average Values for 2023:
+PM10: Min = 2.27, Max = 58.80
+PM2.5: Min = 2.70, Max = 68.93
